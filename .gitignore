@@ -4,3 +4,7 @@ venv/
 .streamlit/secrets.toml
 .env
 data/dictionaries
+build_database.py
+test_database.py
+test_dictionary.py
+test.py
